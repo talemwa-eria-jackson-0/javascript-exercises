@@ -1,14 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body style="margin: 300px; background-color: blue;">
-    <h1 style="align-items: center;">CODING CHALENGE ONE</h1>
-</body>
-<script>
+
     /*
         There are two gymnastics teams, Dolphins and Koalas. They compete against each other 3 times. The winner with the highest average score wins the a trophy!
 
@@ -62,5 +52,4 @@ TEST DATA BONUS 2: Dolphins score 97, 112 and 101. Koalas score 109, 95 and 106
             console.log(`Compeition had no winner. Both teams had the same points and their average of ${koalasAverage} was below the minimum score`);
         }
     }
-</script>
-</html>
+
