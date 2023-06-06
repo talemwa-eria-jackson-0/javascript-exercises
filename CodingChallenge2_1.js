@@ -21,6 +21,9 @@ HINT: To check if number A is at least double number B, check for A >= 2 * B. Ap
 
 GOOD LUCK 😀
  */
+
+
+// CODING CHALLENGE 5
 let calcAverage = (score1, score2, score3) => {
     return score1 + score2 + score3 / 3;
 }
