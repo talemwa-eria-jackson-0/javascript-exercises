@@ -45,3 +45,15 @@ const calcTip = () => {
 }
 
 calcTip();
+
+//bonus
+const calcAverage = (arr) => {
+    let average, sum = 0;
+    for (let i = 0; i < arr.length; i++) {
+        sum = sum + arr[i];
+    }
+    average = sum / arr.length;
+    return average;
+}
+
+console.log(calcAverage([45, 75, 76, 86, 28, 78, 28]));
